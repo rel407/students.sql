@@ -1,4 +1,4 @@
-# Student Database - Relational Database Project
+# Student Database - Relational Database Project: Part 2
 
 This project is part of the "Learn SQL by Building a Student Database: Part 2" course offered by [freeCodeCamp](https://www.freecodecamp.org/). It involves creating and interacting with a PostgreSQL database that stores information about students, their majors, and the courses they take. The project includes a PostgreSQL schema and bash script for querying and managing the student data.
 
